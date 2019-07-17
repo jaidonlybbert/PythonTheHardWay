@@ -1,2 +1,2 @@
-# python_the_hard_way
-Following PTHW examples to remind myself how to Python
+# PythonTheHardWay
+Exercises from "Python The Hard Way"
